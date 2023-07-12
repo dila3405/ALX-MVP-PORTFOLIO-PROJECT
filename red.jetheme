@@ -1,0 +1,56 @@
+#Use '#' at the beginning of a line to start a comment
+#Also use ##_ and _## to enclose a comment, useful for live testing
+#In editor click run to apply theme, long click editor then click 'apply file as theme' to make it stick
+##_
+var, if ,try, for
+0, 10, 55, 728
+Object, Symbol, System
+this,true,false,undefined
+alert,console,prompt
+<htmltag>
+"String"
+//Comment
+/* Comment */
+<!-- html comment -->
+_##    ,
+
+keywords="#005577",
+numbers="#774533",
+objects="#ff6611",
+objects2="#116677",
+functions="#990777",
+htmltags="#993477",
+strings="#fe0955",
+comments="#888888",
+theme=Light,
+status_bar_theme=Dark,
+editor_background="#00000000", 
+editor_parent_background="#f0eeee",
+editor_text="#222222",
+editor_numbering="#221111",
+editor_line="#50ff8888",
+header="#ff4545",
+scroller_text="#111111",
+scroller_background="#99ccbbbb",
+scroller_box_background="#15555555",
+autocomplete_background="#ddcccccc",
+autocomplete_border="#551111",
+select_highlight="#997744",
+block_highlight="#77736763",
+line_highlight="#20776767",
+errorline_highlight="#ff5555",
+search_match="#aa67aa",
+header_text="#ffffff",
+autocomplete_text="#000000",
+autocomplete_sub_text="#111111",
+autocomplete_divider="#00ff00",
+warnings_highlight="#aa6845",
+matching_tags_highlight="#440a78",
+indent_lines="#00ff00",
+zebra_line_stroked="false",
+file_nav_background="#bbff4545",
+file_nav_text="#ffffff",
+file_nav_header_background="#44aa3429",
+file_nav_header_text="#ffffff"
+
+

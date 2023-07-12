@@ -1,0 +1,49 @@
+#Use '#' at the beginning of a line to start a comment
+#Also use ##_ and _## to enclose a comment, useful for live testing
+##_
+var, if ,try, for
+0, 10, 55, 728
+Object, Symbol, System
+this,true,false,undefined
+alert,console,prompt
+<htmltag>
+"String"
+//Comment
+/* Comment */
+<!-- html comment -->
+_##    ,
+keywords="#00ee77",
+numbers="#bb7949",
+objects="#33aaf5",
+objects2="#33aa99",
+functions="#ff6787",
+htmltags="#64a9ba",
+strings="#ffee77",
+comments="#888888",
+theme=Dark,
+editor_background="#00000000", 
+editor_parent_background="#000800",
+editor_text="#ffffff",
+editor_numbering="#ffffff",
+editor_line="#4488ff88",
+header="#001000",
+scroller_text="#eeeeee",
+scroller_background="#99334433",
+scroller_box_background="#15555555",
+autocomplete_background="#cc224422",
+autocomplete_border="#eeeeee",
+select_highlight="#447799",
+block_highlight="#77436733",
+line_highlight="#30676767",
+errorline_highlight="#ff8800",
+search_match="#449966",
+header_text="#eeeeee",
+autocomplete_text="#ffffff",
+autocomplete_sub_text="#eeeeee",
+autocomplete_divider="#00ff00",
+warnings_highlight="#4568bb",
+zebra_line_stroked="false",
+file_nav_background="#cc000000",
+file_nav_text="#ffffff",
+file_nav_header_background="#55444444",
+file_nav_header_text="#ffffff"

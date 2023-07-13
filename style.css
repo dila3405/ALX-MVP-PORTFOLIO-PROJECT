@@ -210,9 +210,3 @@ footer{
     margin-right: 50px;
     margin-right: 50px;
   }
-table { 
-  font-size: 100%; font-style: normal; text-align: top; color: #F4F4F5; image-resolution: 50;
-}
-table{ border: #35424a; border-image-width: auto;
-  background-color: rgb(43, 39, 53);
-}
